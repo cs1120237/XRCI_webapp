@@ -1,2 +1,5 @@
 *~
 *.[oav]
+*.swp
+*.pyc
+*.html
